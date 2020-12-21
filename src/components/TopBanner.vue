@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div class="container">
+    <div class="container" >
       <!-- carousel -->
       <div
         id="carouselExampleCaptions"
-        class="carousel slide"
+        class="carousel slide shadow bg-dark"
         data-ride="carousel"
       >
         <ol class="carousel-indicators">

@@ -6,8 +6,6 @@
         <solucion-1/>
     </div>
     
-    
-
 </div>
 
 </template>

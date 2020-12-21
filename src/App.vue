@@ -2,9 +2,9 @@
   <div id="app">
     <div class="container">
       <div id="nav">
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-          <a class="navbar-brand" href="#"
-            ><img src="../public/imagenes/flag2.png" alt="" />Human Resourses
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top shadow">
+          <a class="navbar-brand mx-3" href="#"
+            ><img class="mx-2" src="../public/imagenes/flag2.png" alt="" />Human Resourses
             Consultant</a
           >
           <ul class="navbar-nav">

@@ -9,14 +9,16 @@
         <div class="d-flex justify-content-center align-items-center">
           <div class="p-3">
             <img
+              class="shadow-lg "
               width="300px"
               height="auto"
               :src="item.urlToImage"
               alt="Imagen de noticia"
+              style="border-radius: 15px;"
             />
           </div>
 
-          <div class="p-2">
+          <div class="p-3">
             <h4>
               <b> {{ item.title }} </b>
             </h4>
@@ -25,7 +27,7 @@
             </p>
           </div>
         </div>
-        <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
+        <div class="d-flex container-fluid justify-content-end pb-2 mt-2 ">
           <a :href="item.url" class="btn btn-outline-info" target="_blank">
             Ver noticia
           </a>

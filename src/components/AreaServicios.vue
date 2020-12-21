@@ -3,12 +3,12 @@
     <!-- services -->
     <div class="container-fluid" id="services">
       <div class="row justify-content-center mb-5">
-        <div class="col-sm-6 col-xs-12 col-lg-4 mt-5">
-          <div class="card  bg-success">
-            <div class="d-flex justify-content-center p-2">
-              <img src="../../public/imagenes/humanresource.jpg" alt="HR" width=400 height=300>
+        <div class="col-xs-12 col-sm-6 col-lg-4 mt-5">
+          <div class="card bg-success text-white shadow" style="border-radius: 25px 25px 25px 25px; border: 0px;">
+            <div class="d-flex justify-content-center p-2" >
+              <img class="card-img-top img-fluid p-1" src="../../public/imagenes/humanresource.jpg" style="border-radius: 25px;" alt="HR" width=350 height=300 >
             </div>
-            <div class="card-body" style="widht:350px; height:180px">
+            <div class="card-body text-center" style="widht:350px; height:180px; ">
               <h5 class="card-title">Consultorias</h5>
               <p class="card-text">
                 Somos una consultora experta en la administracion del recurso humano de su empresa.
@@ -17,12 +17,12 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-xs-12 col-lg-4 mt-5">
-          <div class="card  bg-info">
-            <div class="d-flex justify-content-center p-2">
-            <img src="../../public/imagenes/services2.png" alt="HR" width=400 height=300>  
+        <div class="col-xs-12 col-sm-6 col-lg-4 mt-5" >
+          <div class="card  bg-info text-white shadow" style="border-radius: 25px 25px 25px 25px; border: 0px;">
+            <div class="d-flex justify-content-center p-2 ">
+            <img class="card-img-top img-fluid p-1" src="../../public/imagenes/services2.png" style="border-radius: 25px" alt="HR" width=100% height="300">  
             </div>
-            <div class="card-body" style="widht:350px; height:180px">
+            <div class="card-body text-center" style="widht:350px; height:180px">
               <h5 class="card-title">Optimizacion de recursos</h5>
               <p class="card-text">
                 Optimizamos los recursos de su empresa.
@@ -31,12 +31,12 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-xs-12 col-lg-4 mt-5">
-          <div class="card bg-warning">
+        <div class="col-xs-12 col-sm-6 col-lg-4 mt-5">
+          <div class="card bg-warning text-white shadow" style="border-radius: 25px 25px 25px 25px; border: 0px;">
             <div class="d-flex justify-content-center p-2">
-              <img src="../../public/imagenes/service3.jpg" alt="HR" width=400 height=300>  
+              <img class="card-img-top img-fluid p-1" src="../../public/imagenes/service3.jpg" style="border-radius: 25px" alt="HR" width=100% height=300>  
             </div>
-            <div class="card-body" style="widht:350px; height:180px">
+            <div class="card-body text-center" style="widht:350px; height:180px">
               <h5 class="card-title">Contamos su Historia</h5>
               <p class="card-text">
                 Cada cliente tiene una historia particular, somo especialitas es potenciar el crecimiento

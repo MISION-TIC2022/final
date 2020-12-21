@@ -3,19 +3,20 @@
     <!-- members -->
     <div class="container" id="team">
       <div class="row justify-content mb-5">
-        <div class="card text-white bg-dark">
-          <div class="d-flex justify-content-center p-2">
+        <div class="card text-white bg-dark shadow-lg" style="border-radius: 15px; height:100%; min-width:400px;" >
+          <div class="d-flex justify-content-center py-3">
             <!-- v-bind para llamar propiedades dinamicas -->
             <img
               v-bind:src="member.image"
               alt="Foto del equipo"
               height="150"
               width="auto"
+              style="border-radius: 15px"
             />
           </div>
           <div class="card-body">
-            <h3 class="card-title">{{ member.nombre }}</h3>
-            <p class="card-text">{{ member.descripcion }}</p>
+            <h3 class="card-title text-center">{{ member.nombre }}</h3>
+            <p class="card-text pt-3">{{ member.descripcion }}</p>
             <p class="card-text"><span>Rol: </span> {{ member.rol }}</p>
             <p class="card-text"><span>Codigo: </span> {{ member.rol }}</p>
           </div>

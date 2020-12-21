@@ -1,7 +1,7 @@
 <template>
 <div class="container-fluid">
 <!-- Footer -->
-  <footer class="page-footer bg-secondary text-white pt-4">
+  <footer class="page-footer bg-secondary text-white pt-4" style="opacity: 0.9; border-radius: 15px 15px;">
   
       <!-- Footer Text -->
       <div class="container-fluid text-center text-md-left">
@@ -10,11 +10,11 @@
           <div class="row">
   
               <!-- Grid column -->
-              <div class="col-md-6 mt-md-0 mt-3">
+              <div class="col-md-6 mt-md-0 mt-3 ">
   
                   <!-- Content -->
                   <h5 class="text-uppercase font-weight-bold">Nosotros</h5>
-                  <p> Imágine que pueda potenciar la productividad de su empresa al brindar a sus empleados 
+                  <p> Imagine que pueda potenciar la productividad de su empresa al brindar a sus empleados 
                       una mayor flexibilidad en sus horarios laborales. Somos esa compañia aliada para la gestión
                       de uno de los activos mas preciados de su empresa.
                   </p>

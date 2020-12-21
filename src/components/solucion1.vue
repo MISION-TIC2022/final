@@ -15,6 +15,7 @@
         individual del Trabajo de carácter particular, y las de derecho
         colectivo del Trabajo, oficiales y particulares.
       </dd>
+      <br>
       <dt>En cuanto al horario laboral flexible en Colombia</dt>
       <dd>
         <i
@@ -41,6 +42,7 @@
         </i>
       </dd>
     </dl>
+    <br>
     <h2>Modelo de horario fijo – variable</h2>
     <p>
       Una alternativa para conseguir la armonía laboral satisfaciendo las
