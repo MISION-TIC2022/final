@@ -1,7 +1,7 @@
 <template>
 <div class="container-fluid">
 <!-- Footer -->
-  <footer class="page-footer bg-secondary text-white pt-4" style="opacity: 0.9; border-radius: 15px 15px;">
+  <footer class="page-footer bg-secondary text-white pt-4 " style="opacity: 0.9; border-radius: 15px 15px;">
   
       <!-- Footer Text -->
       <div class="container-fluid text-center text-md-left">
@@ -14,7 +14,7 @@
   
                   <!-- Content -->
                   <h5 class="text-uppercase font-weight-bold">Nosotros</h5>
-                  <p> Imagine que pueda potenciar la productividad de su empresa al brindar a sus empleados 
+                  <p class="p-3"> Imagine que pueda potenciar la productividad de su empresa al brindar a sus empleados 
                       una mayor flexibilidad en sus horarios laborales. Somos esa compañia aliada para la gestión
                       de uno de los activos mas preciados de su empresa.
                   </p>
@@ -29,7 +29,7 @@
   
                   <!-- Content -->
                   <h5 class="text-uppercase font-weight-bold">Estamos en:</h5>
-                  <p>Mas de 50 países en el mundo entero</p>
+                  <p class="p-3">Mas de 50 países en el mundo entero</p>
   
               </div>
               <!-- Grid column -->
