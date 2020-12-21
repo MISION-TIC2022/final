@@ -4,7 +4,7 @@
     <div class="container-fluid" id="services">
       <div class="row justify-content-center mb-5">
         <div class="col-xs-12 col-sm-6 col-lg-4 mt-5">
-          <div class="card bg-success text-white shadow" style="border-radius: 25px 25px 25px 25px; border: 0px;">
+          <div class="card bg-warning text-white shadow" style="border-radius: 25px 25px 25px 25px; border: 0px;">
             <div class="d-flex justify-content-center p-2" >
               <img class="card-img-top img-fluid p-1" src="../../public/imagenes/humanresource.jpg" style="border-radius: 25px;" alt="HR" width=350 height=300 >
             </div>
