@@ -5,7 +5,30 @@
   
       <!-- Footer Text -->
       <div class="container-fluid text-center text-md-left">
+          <!-- Grid row -->
+          <div class="row">
+              <div class="col-md-6 mt-md-0 mt-3 ">
   
+                  <!-- Content -->
+                  <h5 class="text-uppercase font-weight-bold">Trabajemos</h5>
+                  <p class="p-3"> Potencie la productividad de su empresa al brindar a sus empleados flexibilidad en sus horarios laborales. Somos esa compañia aliada para la gestión de uno de los activos mas preciados de su empresa.
+                  </p>
+  
+              </div>
+
+              <div class="col-md-6 mt-md-0 mt-3 ">
+  
+                  <!-- Content -->
+                  <h5 class="text-uppercase font-weight-bold ">Encuentranos:</h5>
+                  <p class="pt-1"> milena@horariosflexibles.com</p>
+                  <p class=""> nicolas@horariosflexibles.com</p>
+                  <p>Encuentranos en redes sociales <br>@flexiwork</p>
+                  
+  
+              </div>
+
+          </div>
+
           <!-- Grid row -->
           <div class="row">
   
@@ -13,10 +36,8 @@
               <div class="col-md-6 mt-md-0 mt-3 ">
   
                   <!-- Content -->
-                  <h5 class="text-uppercase font-weight-bold">Nosotros</h5>
-                  <p class="p-3"> Imagine que pueda potenciar la productividad de su empresa al brindar a sus empleados 
-                      una mayor flexibilidad en sus horarios laborales. Somos esa compañia aliada para la gestión
-                      de uno de los activos mas preciados de su empresa.
+                  <h5 class="text-uppercase font-weight-bold">Con presencia en:</h5>
+                  <p class="p-3"> Gracias a Internet no tenemos barreras, podemos asesorarte por medios virtuales y realizar el seguimiento de todo el proceso. <br> Si lo prefieres, podemos atenderte presencialmente en todas las capitales de Latinoamérica.
                   </p>
   
               </div>
@@ -28,8 +49,8 @@
               <div class="col-md-6 mb-md-0 mb-3">
   
                   <!-- Content -->
-                  <h5 class="text-uppercase font-weight-bold">Estamos en:</h5>
-                  <p class="p-3">Mas de 50 países en el mundo entero</p>
+                  <h5 class="text-uppercase font-weight-bold">Respositorio</h5>
+                  <p class="p-3"><a class="text-white" ref="https://github.com/MISION-TIC2022/final/tree/front">Link al Respositorio</a></p>
   
               </div>
               <!-- Grid column -->

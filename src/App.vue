@@ -4,7 +4,7 @@
       <div id="nav">
         <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top d-flex shadow" >
           <a class="navbar-brand mx-3" style="widht:50%;" href="#"
-            ><img class="mx-2"  src="../public/imagenes/flag2.png" alt="" />Human Resourses
+            ><img class="mx-2"  src="../public/imagenes/flag2.png" height="25" alt="" />Human Resourses
             Consultant</a
           >
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@
           </button>
 
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav p-4 ml-auto">
+            <ul class="navbar-nav ml-auto ">
               <li class="nav-item active">
                 <a class="nav-link"  href="#"><router-link to="/" style="text-decoration:none; color: white;">Home</router-link> |</a>
                 
@@ -58,17 +58,12 @@
         </nav>
       </div>
     </div>
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <div class="container-fluid">
+
+    <div class="container-fluid" style="margin-top:80px;">
       <top-banner> </top-banner>
     </div>
-    <router-view />
-    <area-footer> </area-footer>
+      <router-view />
+      <area-footer> </area-footer>
   </div>
 </template>
 

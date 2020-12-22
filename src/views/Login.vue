@@ -6,8 +6,6 @@
         <the-login/>
     </div>
     
-    
-
 </div>
 
 </template>
